@@ -128,4 +128,4 @@ STATICFILES_DIRS=[
      os.path.join(BASE_DIR,'statisfiles')
 ]
 
-MEDIA_ROOT =os.path.join(BASE_DIR,'statisfiles/images')
+MEDIA_ROOT  = os.path.join(BASE_DIR, 'media')
